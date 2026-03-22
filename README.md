@@ -1,3 +1,3 @@
 # Css-Generator
  
-https://ahmedali300.github.io/Css-Generator/
+https://css-generator-phi.vercel.app/
